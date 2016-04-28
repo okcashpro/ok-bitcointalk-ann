@@ -1,2 +1,4 @@
 # ok-bitcointalk-ann
-OKCash ANN at BitcoinTalk Community Forums
+OKCash ANN at BitcoinTalk
+
+OK ANN for the different community forums

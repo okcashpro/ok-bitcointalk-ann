@@ -1,0 +1,309 @@
+[center]Voluntary Developers/Community based Decentralized Tech. Everyone is free and welcome to integrate/develop new applications with/for OKCash.[/center]
+[hr]
+[center][img]http://i.imgur.com/LgG2T15.png[/img][/center]
+[right][url=https://bitcointalk.org/index.php?topic=1206249.0][b]? OKCash en Español (Spanish)[/b][/url] [url=https://bitcointalk.org/index.php?topic=1193081.0][b]? OKCash ???????? (Greek)[/b][/url] [url=https://bitcointalk.org/index.php?topic=1389450.0][b]? OKCash Deutsch (German)[/b][/url] [url=https://bitcointalk.org/index.php?topic=1398488.0][b]? OKCash Indonesian[/b][/url][/right][center]
+
+[img]http://i.imgur.com/rOeEycy.png[/img]
+[b][url=http://bit.ly/OKlogo500px]OKCash [Logo] 500px[/url] for Markets, Exchanges, Games and Services[/b][/center]
+[hr]
+
+[b]Latest Wallet Release:[/b]
+[size=15pt][b]OK Wallets Release List
+v3 codename: "core" - [url=https://github.com/okcashpro/okcash/releases]Release Notes[/url][/b][/size]
+
+[hr]
+[center][url=http://okcash.co/#jf_download][img]http://i.imgur.com/kvOc0AL.png[/img][/url]
+
+[b]OK is open-source; its design is public, nobody owns or controls OKCash and everyone can take part.[/b]
+
+[img]http://i.imgur.com/63nlVlz.png[/img][/center]
+
+[center]
+[table][tr][td][img]http://i.imgur.com/Tv9AeLW.png[/img][/td]
+[td]
+[img]http://i.imgur.com/eUnLSik.png[/img]
+
+[b]OK Source[/b]
+[url=https://github.com/okcashpro/okcash]Github (Source)[/url]
+
+[b]OK Config Tools[/b]
+[url=https://copy.com/xA9zw2U4hN7Vnctk]BootStrap (Synched OK Chain)[/url]
+[url=https://copy.com/Kg9rcMnSCXd0TxeS]Config File[/url]
+
+[b]OK Mobile, Web and Offline Wallets[/b]
+[url=https://cointopay.com/index.jsp?#Register]Cointopay (WebWallet)[/url]
+[url=https://play.google.com/store/apps/details?id=com.mygeopay.wallet]UberPay (Android)[/url]
+[url=http://paperwallets.okcash.co/]Paper Wallets (Cold Storage)[/url]
+
+[b]OK Blockchain Explorers and Public Nodes[/b]
+[url=http://okcash.explorer.rocks/]OKCash Explorer Rocks[/url]
+[url=http://explorer.okcash.co]Crypto ID OKCash Explorer[/url]
+[url=https://www.cryptopia.co.nz/BlockExplorer?coin=OK]Cryptopia OK Explorer[/url]
+[url=http://www.multifaucet.tk/index.php?blockexplorer=OK]Multifaucet.tk OK explorer[/url]
+[url=https://bitnodes.net/node/185-81-165-13/]OK Public Dedicated Node (Maint. by Bitnodes)[/url]
+
+[b]OK Developers Tools[/b]
+[url=https://github.com/okcashpro/electrum-ok-server]Electrum OK Server[/url]
+
+[b]OK Websites[/b]
+[url=http://okcash.co]OKCash (English)[/url]
+[url=http://es.okcash.co]OKCash (Español)[/url]
+[url=http://explorer.rocks]Explorer Rocks (Bitcoin and OKCash)[/url]
+[url=http://communityevents.okcash.co/]BTC & OK Community Events Project[/url]
+
+[b]Ranks, Charts, BTC rates and Resources[/b]
+[url=https://www.coingecko.com/en/coins/okcash]CoinGecko[/url]
+[url=http://coinmarketcap.com/currencies/okcash/]CoinMarketCap[/url]
+[url=http://capfeed.com/]CapFeed[/url]
+[url=https://www.coinhills.com/market/ok/]CoinHills[/url]
+[url=https://www.quandl.com/data/CRYPTOCHART/OK-OK-BITCOIN-Price]Quandl Data[/url]
+[url=https://cryptuitive.com/markets/bittrex/ok/btc]Cryptuitive[/url]
+[url=https://cryptrader.com/charts/bittrex/ok/btc]CrypTrader[/url]
+[url=https://www.cryptonator.com/rates#OK]Cryptonator[/url]
+[url=http://www.cryptocoincharts.info/pair/ok/btc/bittrex/5-days]CryptoCoinCharts[/url]
+[url=http://exchangewar.info/coinprice?OK_BTC]Exchange War[/url]
+[url=http://saldigi.info/coin/OK?hilight=c8xO4mH]Saldigi Crypto[/url]
+[/td][td]
+[b]Established Exchanges 
+(Buy/Sell OK)[/b]
+[url=https://www.bittrex.com/Market/Index?MarketName=BTC-OK]Bittrex (BTC Pairs)[/url]
+[url=https://www.cryptopia.co.nz/Exchange?id=1298]Cryptopia (BTC Pairs)[/url]
+[url=https://bleutrade.com/exchange/OK/BTC]Bleutrade (BTC Pairs)[/url]
+[url=https://yobit.net/en/trade/OK/BTC]Yobit (BTC Pairs)[/url]
+
+[b]New Exchanges (Proper Caution)[/b]
+[url=https://btcpool.exchange/Market?pair=OK/BTC]BTCpool (BTC Pairs)[/url]
+
+[b]OK Cloud Staking/Mining/wallets[/b]
+[url=https://coinwallet.co/]CoinWallet[/url]
+[url=https://staisybit.com/]Staisybit[/url]
+[url=http://www.stakeminers.com/]StakeMiners[/url]
+[url=https://www.okcashpool.info/]OKCash Multipool[/url]
+
+[b]Markets and Merchants
+Buy and sell products
+and services with OK[/b]
+[url=http://cryptocloudhosting.org/]CryptoCloud (Hosting  Services)[/url]
+[url=http://www.cryptomercado.com/]CryptoMercado (Market)[/url]
+[url=https://cointopay.com/M_MarketOverview.jsp]CointoPay (Market)[/url]
+[url=https://www.cryptopia.co.nz/MarketPlace]Cryptopia (Market)[/url]
+[url=http://picisi.com]PICISI (Crowdfunding)[/url]
+
+[b]OK Payments Processors[/b]
+[url=https://cointopay.com/integration.jsp]CointoPay (Integration)[/url]
+
+[b]Android Apps for Bitcoin and OKCash[/b]
+[url=https://play.google.com/store/apps/details?id=com.mygeopay.wallet]UberPay Multiwallet[/url]
+[url=https://play.google.com/store/apps/details?id=com.mobnetic.coinguardian]Bitcoin Checker[/url]
+[url=https://play.google.com/store/apps/details?id=com.blockfolio.blockfolio]Blockfolio[/url]
+[url=https://play.google.com/store/apps/details?id=wiskunde.nl.coinpriceticker]Coin Price Ticker[/url]
+
+[b]Free OK, Games and Twitterbots[/b]
+[url=http://www.multifaucet.tk/index.php?faucet=OK]OK Faucet #1[/url]
+[url=http://ok.bleufaucet.com/]OK Faucet #2[/url]
+[url=http://www.free-crypto.com/]OK Faucet #3[/url]
+[url=https://twitter.com/okcashtip/]OK Twitter Tipbot[/url]
+[url=https://yobit.net/en/dice/]OK at Yobit Dice[/url]
+[url=https://www.reddit.com/r/OKcash/comments/3i97g0/okcash_tip_bot/]OK Reddit Tipbot[/url]
+[url=https://kiwiirc.com/client/irc.freenode.net/#okcash]OK IRC Tipbot[/url]
+[url=https://kiwiirc.com/client/irc.freenode.net/#okcash]OK Trivia on IRC (start with !quiz)[/url]
+[url=https://kiwiirc.com/client/irc.freenode.net/#okcash]OK Hi - Low on IRC (start with !hl)[/url]
+[url=https://kiwiirc.com/client/irc.freenode.net/#okcash]OK Random times Tipme on IRC
+by nrpatten (use with !tipme)[/url]
+[url=https://kiwiirc.com/client/irc.freenode.net/#okcash]deb0rah Price check on IRC by BuZz
+(start with !price)[/url]
+[url=https://twitter.com/OKCashPrice]BTC/OK Twitter Pricebot 
+by SebSebastian[/url]
+[url=https://twitter.com/ExplorerRocks]BTC/OK Detailed Twitter Pricebot[/url]
+[/td]
+[td]
+[b]OK Partners[/b]
+[url=https://headtalker.com/partners/]HeadTalker (ultimate crowdspeaking platform)[/url]
+
+[b]OK Social
+Communities and Information[/b]
+[url=https://kiwiirc.com/client/irc.freenode.net/#okcash]IRC Web Chat[/url]
+[url=https://twitter.com/OKCashCrypto]Twitter[/url]
+[url=http://updates.okcash.co/]Tumblr[/url]
+[url=http://www.reddit.com/r/OKCash]Reddit[/url]
+[url=https://voat.co/v/ok]Voat[/url]
+[url=http://pinterest.com/okcash]Pinterest[/url]
+[url=https://instagram.com/okcashcrypto/]Instagram[/url]
+[url=https://www.facebook.com/OKCashCrypto]Facebook[/url]
+[url=https://plus.google.com/u/0/111925669729941786986/]Google +[/url]
+[url=https://www.youtube.com/channel/UC5BCYmlBtPZiC7NNv-a5gfA/videos]Youtube[/url]
+[url=https://bitcointalk.org/index.php?topic=1028368.0]BitcoinTalk ANN[/url]
+[url=http://forum.okcash.co/]OK Forum[/url]
+[url=http://roadmap.okcash.co/]Interactive Community Roadmaps[/url]
+[url=http://ok.roadmap.space/]Formal Roadmaps[/url]
+[url=https://github.com/okcashpro/okcash/releases]Wallet Releases History[/url]
+[url=http://okcash.altcoin.bio/]IRC Web Chat Logs[/url]
+[url=http://about.me/okcash]About.me[/url]
+[url=http://bitcoingarden.tk/forum/index.php?topic=3941.0]BitcoinGarden[/url]
+[url=http://cryptocentral.info/topic/16/okcash-ok-pow-pos-sha256]Cryptocentral[/url]
+[url=https://www.cryptopia.co.nz/Forum/Thread/449]Cryptopia forums[/url]
+[url=http://cryptos.us/forum/announcements/72-ann-ok-ok-cryptocurrency-efficient-crypto-bittrex-rokos-pi-os]Cryptos.us forums[/url]
+[url=https://cryptocointalk.com/topic/39002-ann-ok-ok-cryptocurrency-okcash-efficient-crypto-pos/]CryptoCoinTalk[/url]
+[url=https://allcryptotalk.com/index.php/topic/1833-ann-ok-ok-cryptocurrency-okcash-efficient-crypto-pos-social/]AllCryptoTalk[/url]
+[url=https://altcoinsfoundation.com/forum/ann-altcoins/15-okcash-ok-cryptocurrency-fast-and-efficient-crypto]Altcoins Foundation[/url]
+[url=http://cryptoscene.com/threads/ann-ok-okcash-efficient-crypto-multipool-eco-friendly-bittrex-coingecko.64/]Cryptoscene[/url]
+[url=https://www.raspberrypi.org/forums/viewtopic.php?f=41&t=112913]Raspberry Pi[/url]
+[url=http://www.foro-ptc.com/cryptomonedas-138/okcash-criptomoneda-pos-para-minar-en-raspberry-69-anual-119727/]Foro-PTC[/url]
+[url=https://forobits.com/t/okcash-hilo-general/1347]ForoBits[/url]
+
+[b]OK Wallpapers[/b]
+[url=https://copy.com/yuL4KvTeRH3uq2Qg]ROKOS IoT Themes[/url]
+[url=https://copy.com/lFi9Pll0PBkotGwc]Remember the 5th Themes[/url]
+
+[b]Side Projects 
+and Cross Collaboration[/b]
+[url=http://altcoinsfoundation.com/p/userprofile/OKCash]Altcoins Foundation[/url]
+[url=https://bitcointalk.org/index.php?topic=1084908.0]ROKOS - Raspberry Pi Distro (BTC/OK)[/url]
+[url=https://bitcointalk.org/index.php?topic=807698.msg9771644#msg9771644]Gaia[/url]
+[url=https://www.indiegogo.com/projects/science-study-memory-loss-dueto-sleep-deprivation]Emc2[/url]
+[url=https://bitcointalk.org/index.php?topic=871506.msg10646440#msg10646440]BsXs[/url]
+[/td]
+[/tr]
+[/table][/center]
+
+[center]
+[b]Media Coverage / Relay[/b]
+[url=http://themerkle.com/news/rokos-is-a-free-raspberry-pi-operating-system-to-launch-a-bitcoin-node/][ROKOS Free Raspberry Pi Operating System To Launch A Bitcoin Node][/url]
+[url=http://kabarlinux.web.id/2015/rokos-v4-distro-untuk-membangun-bitcoin-node/][ROKOS v4, Distro untuk Membangun Bitcoin Node][/url]
+[url=http://us.newsbtc.com/okcash-looking-to-position-itself-among-the-leaders-in-digital-currency-ecosystem/][OKCash Looking To Position Itself Among The Leaders In Digital Currency Ecosystem][/url]
+[url=http://www.altcoinsnews.com/okcash-new-wallet-update-and-latest-news/][OKCash New Wallet Update and Latest News][/url]
+[url=http://www.k5webmasters.com/geektip-noticias-y-updates/tecnologia/64-okcash-nueva-moneda-digital-la-evolucion-de-los-pagos-sociales.html][OKCash Nueva moneda digital, La evolución de los Pagos Sociales][/url]
+[url=http://blockchainbp.xyz/2015/11/24/okcash-announces-new-anonymous-core-v3-wallet-update-featuring-a-new-optional-anonymous-ring-signature-system][BlockchainBP][/url]
+[url=http://www.satoshis.guru/home/coin-info/okcash/][OKCash The Future of Social Payments][/url]
+[url=https://twitter.com/TrendingGithub/status/659020176139141120][Fast and efficient Digital Cash Tech with Privacy options Github Trending][/url]
+[url=http://cryptolix.com/what-is-okcash-an-okcash-review/][What is OKCash? An OKCash Review][/url]
+[url=http://cryptos.us/crypto-news/item/68-okcash-the-bitcoin-s-grandson-history-and-philosophy][OKCash The Bitcoin's Grandson History and Philosophy] [/url]
+[url=https://www.youtube.com/watch?v=8UNAqWD3sFU&feature=youtu.be&t=6m5s][Bitcoin Rush Video Show - OKCash Spend, Share and Save][/url]
+[url=http://bitcoingarden.tk/okcash-releases-new-wallets-v2-0-0-1/][OKCash Releases new wallets v2.0.0.1][/url]
+[url=http://eternitywall.it/m/677e2eb9158e4c3bef2fdacc3117c9ea5d842fdd93c2b6dc07743a355cc5e4d7][Bitcoin's Eternity Wall OKCash Easter Egg][/url]
+[url=http://cryptos.us/component/k2/item/63-okcash-the-future-of-social-payments][OKCash A new brand and a new future for social payments][/url]
+[url=http://bitcoinlasvegas.net/pimpcash-gets-rebranded-to-okcash-69-interest-per-year-8-hr-min-stake-age/][OKCash 69% Interest, 8 hr min stake age][/url][/center]
+
+[hr]
+[center][img]http://i.imgur.com/P1a1fu0.png[/img]
+
+[b][url=https://poloniex.com/coinRequest][Poloniex] Exchange (form request)[/url]
+[url=https://bitcointalk.org/index.php?topic=1092682.0][ExchangeD.I2P] Exchange (post in thread request)[/url]
+[url=https://bitcointalk.org/index.php?topic=393147.0][DirectBet] Sports and Race books bets (vote)[/url]
+[url=https://www.coinpayments.net/vote][CoinPayments] Payment processor (vote)[/url]
+[url=https://gourl.io/voting-ok.htm][GoURL] Payment processor (vote)[/url]
+[url=https://twitter.com/BanxExchange][Banx.io] Exchange (tweet request)[/url]
+[url=https://askcoin.net/votes][AskCoin] Exchange (vote)[/url][/b]
+
+
+[b]Happy OKCash User?[/b]
+[b]Support the OK Development[/b]
+[b]Community Donations to Support Development[/b]
+
+[b]OKtoshi
+Lead Developer[/b]
+
+[b]OK[/b] PRnWj5rovke61MfSfpY2j9oKYGrqzGGWcr
+[b]BTC[/b] 1oKCasHYZQBhWR1V2VboGHiCoMNGaUPPy
+
+
+[/center]
+[img]http://i.imgur.com/63nlVlz.png[/img]
+
+[b]What are the Stake Rewards or Staking?[/b]
+In easy Terms is the process where you keep your coins in your OK wallet and keep it open, your coins will start to "stake", meaning after 8-24 hours your wallet will start to mine for more coins according to the quantity of coins that you already have in your wallet, at a rate of 69% for the First Year (% changes the first 4 years) without the need for special equipment. You only need to keep the OKCash wallet running and some Coins in it to start earning more coins. (This nodes help maintain a decentralized, secure and fast network, hence why they get the rewards for trusting and supporting the network/project)
+
+[b]OK Specs[/b]
+[b]Released:[/b] Nov 24th 2014
+[b]PoW Ended at block: [/b]33,186
+[b]Total coins at the end of Pow/Pos Hybrid Period:[/b] 36,297,000 OKCash
+[b]Max Cap:[/b] 105,000,000 OKCash
+[b]Full POS started:[/b] Dec 9th 2014
+[b]Proof of Stake[/b]
+[b]Stake Rewards:[/b] 69% 1st Year (block 531,257)
+| 20% 2nd (block 1,022,514) | 10% 3rd (block 1,523,771)| 6% 4th Year on wards
+[b]PoS Min Stake Time:[/b] 8 hr
+[b]Transactions: [/b]10 confirmations
+[b]Stakes: [/b]64 confirmations
+[b]Block Time:[/b] 72 seconds average block time.
+[b]Rpcport:[/b] 6969
+[b]Port:[/b] 6970
+[b]Test ports:[/b] ( RPCport 7979 ) ( Port 7980 )
+
+[hr]
+
+[center][img]http://i.imgur.com/2dOXaff.png[/img][/center]
+
+[b] [size=14pt]What is OKCash? [/size] [/b]
+
+OKCash is a new Cryptocurrency that got released in November 2014. Since the start OK has shown a unique interest in the end user and tried to make the coin accessible and easy to use for the community. The launch was a success and a lot of miners participated in the pools that were mining the coin.
+ 
+The mining PoW process lasted 15 days without halving to make it fair for every miner no matter when they started with the coin. After these 15 days of mining, OKCash became a full Proof of Stake coin, fulfilling its goal of hybrid initial distribution. It started a new era in the cryptocurrency environment, where coins continue to be created and distributed via Proof of Stake, which is a more long-term sustainable system and much more energy friendly than Proof of work.
+ 
+OKCash started a new tendency in the cryptocurrency world, by injecting a positive vibe into its design and code. A lot of new coins started to get created following these ideals, some even adding the "positive" into its names just like in OK's previous name. Sadly most of these new coins lasted for only a few months and others lacked the determination to continue with its commitment to the code and its community. Others had outsourced development, meaning not having in-house devs, which makes the development process harder to maintain and makes it hard to build an efficient system as there is no main Developer with a real understanding of the code.
+ 
+OKCash does not present such issues: the coin has been trading since Nov 2014 and the community continues to grow in all aspects, on social networks, in markets, in use, and with its in-house dedicated Dev it's been building a solid decentralized infrastructure that's directly reflected in the coin's efficiency and speed. OKCash is one of a handful of coins that has not presented any issues with its blockchain, working perfectly since the day it was released. Even the Branding process update was neat and easy for its users, showing once again its dedication to functionality and ease of use.
+ 
+The initial motivation behind OKCash was to create a really efficient and fast coin with a funny association to the Pimpd TV show, evoking the phrase in the sense to "improve things" or "make things better". After the success of getting added to the first exchanges, and with the community interaction and feedback, the name became a "hot topic". Hence by Devs' and community feedback it was decided it was time for the coin to evolve and communicate the real philosophy behind its work. The community and environment itself were the driving forces behind this evolution, which is meant to provide end users with a cryptocurrency they can trust - with a name aimed for mainstream - and with the following qualities: speed, efficiency and ease of use accompanied by a dedicated and personalized working design.
+ 
+[center][img]http://i.imgur.com/6ViGSdN.png[/img][/center] 
+
+The "OK" name got selected to represent the new brand precisely because it reflects properly the coin's goals and attitude. OK is one of only 2 words in the whole world that requires no translation at all to be understood, giving it the potential for mainstream adoption without the hassle of trying to integrate the new name to different cultures. "OK" is understood the whole world over.
+
+OK reflects a positive outcome, speed and empathy. Security and user experience are the first thoughts behind any update or code modification. The addition of the word "cash" was made to give it direct inclusion into the financial sector and to communicate the whole concept in a word: "OKCash".
+Anybody who hears this word gets an overall concept or general idea of what it is about. OK is the technology while OKCash is the first application of this technology, being the coins we can send or put in our wallets for saving, spending or sharing.
+ 
+OKCash's rebranding was done in April 2015, and since then the OK cryptocurrency has been added to one of the largest cryptocurrency exchanges - Bittrex. This adds to the list of exchanges where the coin is already trading (Bittrex, Bleutrade, Cryptopia ).
+ 
+[center]OKCash has direct USD / OK markets at Bleutrade, making it possible to buy or sell OK directly for fiat currency.[/center]
+ 
+OKCash has been referred to as "The future for Social Payments" and "Bitcoin Grandson" it has one of the strongest social presences in the cryptocurrency environment. You can actually send OKCash anywhere in the world by the easy use of the Reddit and/or Twitter Tip bots. This makes it possible to send OK to anyone in the world, even if they have not yet installed and downloaded the OKCash wallet.
+ 
+OKCash is also one of the few currencies that does not fight BTC. On the contrary, OK supports BTC and aims to create events around the world to teach people about cryptocurrencies such as BTC and OK: how they can get the advantages and how they differ from traditional fiat systems. [url=http://okcash.co/#jf_download]Download OKCash Wallet[/url]
+ 
+OK complements BTC, with its speed and Proof of Stake system OK works as a currency but also as an earning system. If you keep your wallet open, you gain a % of the coins you hold in your wallet as interest. This system incentivizes the network growth and security as well, and is one of the key aspects of OK as it doesn't require special equipment. It is a more energy friendly way to sustain the whole network, reducing the carbon footprint considerably against Proof of Work technology.
+ 
+Since the start, OKCash has provided constant updates, a dedicated site for them and has followed the Roadmap in time and form.
+ 
+[center][img]http://i.imgur.com/oaj68zd.png[/img][/center]
+ 
+OK is the first cryptocurrency to hold cross-promotions between different cryptocurrency communities, and to incentivize further cooperation the OKCash Devs created the Altcoins Foundation: an Automated Platform that helps promote projects throughout the cryptocurrency environment and gives a space to new or established currencies to share their updates and news. [url=https://altcoinsfoundation.com]Link[/url]
+ 
+[center][img]http://i.imgur.com/wBVYnX2.png[/img][/center] 
+
+Anyone can visit and download the "ROKOS" project as well, a Raspberry Pi OS with full Bitcoin Graphical Client and node ready to plug and play, OK client/node ready for use, distributed for free by the OKCash Developers to support Crypto adoption and the integration of cryptocurrencies with the Internet of Things technology (IoT). [url=https://www.raspberrypi.org/forums/viewtopic.php?f=41&t=112913]Download[/url]
+ 
+OK community has continued to create giveaways for more crypto communities and constant contests with the addition of faucets and resources to give more users the chance to have fun and get to know, test and use OKCash (OK).
+
+[center][img]http://i.imgur.com/63nlVlz.png[/img][/center]
+
+[center]
+[b]OK Resume[/b][/center]
+
+[b]$OK - OKCash[/b] is The future for Social payments.
+
+The name is [b]OKCash [/b] with the [b]"OK"[/b] Ticker, the different dedicated languages sites and resources are currently being rolled out across the networks and social media.
+
+The purpose of the name OKCash is to ensure that the name of the coin properly reflects the trust, positivism, innovation and vision that are at the center of all of our work.  We firmly believe  that [b]OKCash [/b]will have better projection and appeal to a broader international audience, making it a perfect fit for integration in different markets, promotions, exchanges and resources.  Say OK to Cash!
+
+Development focus on the long term service provision for [b]OKCash [/b]across multiple payment platforms, and the  accessibility and reliability will compliment the socially orientated services that are currently under development.
+
+We are very excited by the new opportunities that [b]OKCash [/b] is bringing to different communities and people around the world with its new positioning as a mainstream brand.  
+
+[b]OKCash is fun and inclusive, we warmly welcome the community and would like to thank you for your continued support[/b].
+
+[b]History:[/b] Started as a PoW/PoS hybrid, meaning miners were able to use their gpu cards and special miner equipments to mine the coin for the first 15 days without halving to make it more fair to miners, After this Phase, OKCash became a Full Proof of Stake (PoS) Cryptocurrency, meaning the only way to create more coins is the process of staking. It had a Dev_Fund mined of 2,691,000 OK in 1st Block for initial distribution for the community. ( Dev Fund was fully distributed via Rains, Giveaways, Bounties, Quiz bots and contests to all the participant crypto communities. Full Dev Fund spent in the [url=https://bitcointalk.org/index.php?topic=900784.0]Previous Community Record; Biggest Epic Rain [/url]Record with cross cooperation with other Altcoins communities).
+
+Launched in November 2014 with the name Positive Innovation for Multi Payment Cash solutions and re branded later to OKCash, it has a growing reputation as The most socially orientated cryptocurrency with almost daily updates, shared directly on a website for news and updates for the community, and across broad social media. 
+
+In December 2014 released a custom wallet for Gaia coin based on the previous OK design, a first for cross-coin collaboration in the crypto Eco-system. This reflects the OKCash focus on developing relationships with other cryptocurrencies, through charitable initiatives and collaborative projects with other coins, which so far have included projects with Gaia, Einsteinium (EMC2) and others.
+
+Another important point to be highlighted regarding OKCash is the fact that there has not been any problems so far with the block chain or it’s code and it runs in real fast and reliable network.
+
+The custom wallet designs reflect an attention to detail and an importance of visual design that is unique to OKCash, along with its emphasis on positivism, inclusiveness and to further the advancement of all the cryptocurrency environment adoption and decentralized payment systems, while bringing back trust to Crypto and becoming The Future of Social Payments.
+
+[b]Uses:[/b]  Spending, Sharing, Saving, Remittance, Social Tipping, Crowdfunding, Promotion, Bitcoin Support, Education, communications and much more to be discovered.
+
+OKCash is full POS now, an OKCash Multipool got released by community donations to provide miners a way to mine OKCash under different algorithms at: www.okcashpool.info
+
+[center][img]http://i.imgur.com/LgG2T15.png[/img][/center]
