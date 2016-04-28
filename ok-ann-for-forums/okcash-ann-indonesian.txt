@@ -1,0 +1,304 @@
+[center]Develop Secara SukaRelawan/Komunitas berdasarkan program desentralisasi. Semua orang dapat bebas dan dapat mengintegrasikan ke apikasi yang baru dengan/untuk OkCash.[/center]
+[hr]
+[center][img]http://i.imgur.com/LgG2T15.png[/img][/center]
+[right][url=https://bitcointalk.org/index.php?topic=1206249.0][b]? OKCash di Español (Spanish)[/b][/url] [url=https://bitcointalk.org/index.php?topic=1193081.0][b]? OKCash ???????? (Greek)[/b][/url] [url=https://bitcointalk.org/index.php?topic=1389450.0][b]? OKCash Deutsch (German)[/b][/url][/right][center] (Abis ini OKCash di Indonesia :D Nice gak gan :D )
+
+[img]http://i.imgur.com/rOeEycy.png[/img]
+[b][url=http://bit.ly/OKlogo500px]OKCash [Logo] 500px[/url] untuk Markets, Exchanges, Games dan layanan[/b][/center]
+[hr]
+
+[b]Dompet Terbaru:[/b]
+[size=15pt][b]Daftar Dompet Okcash 
+v3 codename: "core" - [url=https://github.com/okcashpro/okcash/releases]Release Notes[/url][/b][/size]
+
+[hr]
+[center][url=http://okcash.co/#jf_download][img]http://i.imgur.com/kvOc0AL.png[/img][/url]
+
+[b]OK adalah terbuka(jadi siapa saja dapat mengunduh, menyebarkan dan mengubah kodenya gan :D ); desainya juga terpublikasikan. tidak ada seorang pun yang mengontrol OKash semua ikut andil dalam bagian ini.[/b]
+
+[img]http://i.imgur.com/63nlVlz.png[/img][/center]
+
+[center]
+[table][tr][td][img]http://i.imgur.com/Tv9AeLW.png[/img][/td]
+[td]
+[img]http://i.imgur.com/eUnLSik.png[/img]
+
+[b]OK Sumber Kode[/b]
+[url=https://github.com/okcashpro/okcash]Github (Sumber Kode)[/url]
+
+[b]OK Alat Konfigurasi[/b]
+[url=https://copy.com/xA9zw2U4hN7Vnctk]BootStrap (Synched OK Chain)[/url]
+[url=https://copy.com/Kg9rcMnSCXd0TxeS]Config File[/url]
+
+[b]OK Mobile, Web dan Dompet Offline[/b]
+[url=https://cointopay.com/index.jsp?#Register]Cointopay (WebWallet)[/url]
+[url=https://play.google.com/store/apps/details?id=com.mygeopay.wallet]UberPay (Android)[/url]
+[url=http://paperwallets.okcash.co/]Paper Wallets/Dompet Kertas (Cold Storage)[/url]
+
+[b]OK Blockchain Explorers and Public Nodes[/b]
+[url=http://okcash.explorer.rocks/]OKCash Explorer Rocks[/url]
+[url=http://explorer.okcash.co]Crypto ID OKCash Explorer[/url]
+[url=https://www.cryptopia.co.nz/BlockExplorer?coin=OK]Cryptopia OK Explorer[/url]
+[url=http://www.multifaucet.tk/index.php?blockexplorer=OK]Multifaucet.tk OK explorer[/url]
+[url=https://bitnodes.net/node/185-81-165-13/]OK Public Dedicated Node (Maint. by Bitnodes)[/url]
+
+[b]OK Alat untuk pengembang/developer[/b]
+[url=https://github.com/okcashpro/electrum-ok-server]Electrum OK Server[/url]
+
+[b]Situs OK =[/b]
+[url=http://okcash.co]OKCash (English)[/url]
+[url=http://es.okcash.co]OKCash (Español)[/url]
+[url=http://explorer.rocks]Explorer Rocks (Bitcoin and OKCash)[/url]
+[url=http://communityevents.okcash.co/]BTC & OK Community Events Project[/url]
+
+[b]Ranks, Charts, BTC rates dan Sumber Daya[/b]
+[url=https://www.coingecko.com/en/coins/okcash]CoinGecko[/url]
+[url=http://coinmarketcap.com/currencies/okcash/]CoinMarketCap[/url]
+[url=http://capfeed.com/]CapFeed[/url]
+[url=https://www.coinhills.com/market/ok/]CoinHills[/url]
+[url=https://www.quandl.com/data/CRYPTOCHART/OK-OK-BITCOIN-Price]Quandl Data[/url]
+[url=https://cryptuitive.com/markets/bittrex/ok/btc]Cryptuitive[/url]
+[url=https://cryptrader.com/charts/bittrex/ok/btc]CrypTrader[/url]
+[url=https://www.cryptonator.com/rates#OK]Cryptonator[/url]
+[url=http://www.cryptocoincharts.info/pair/ok/btc/bittrex/5-days]CryptoCoinCharts[/url]
+[url=http://exchangewar.info/coinprice?OK_BTC]Exchange War[/url]
+[url=http://saldigi.info/coin/OK?hilight=c8xO4mH]Saldigi Crypto[/url]
+[/td][td]
+[b]Established Exchanges 
+(Beli/Jual OK)[/b]
+[url=https://www.bittrex.com/Market/Index?MarketName=BTC-OK]Bittrex (BTC Pairs)[/url]
+[url=https://www.cryptopia.co.nz/Exchange?id=1298]Cryptopia (BTC Pairs)[/url]
+[url=https://bleutrade.com/exchange/OK/BTC]Bleutrade (BTC Pairs)[/url]
+[url=https://yobit.net/en/trade/OK/BTC]Yobit (BTC Pairs)[/url]
+
+[b]Exchanges Baru[/b]
+[url=https://btcpool.exchange/Market?pair=OK/BTC]BTCpool (BTC Pairs)[/url]
+
+[b]OK Cloud Staking/Mining/wallets[/b]
+[url=https://coinwallet.co/]CoinWallet[/url]
+[url=https://staisybit.com/]Staisybit[/url]
+[url=http://www.stakeminers.com/]StakeMiners[/url]
+[url=https://www.okcashpool.info/]OKCash Multipool[/url]
+
+[b]Markets dan Merchants
+Beli dan menjual produk
+dan jasa dengan OK[/b]
+[url=http://cryptocloudhosting.org/]CryptoCloud (Hosting  Services)[/url]
+[url=http://www.cryptomercado.com/]CryptoMercado (Market)[/url]
+[url=https://cointopay.com/M_MarketOverview.jsp]CointoPay (Market)[/url]
+[url=https://www.cryptopia.co.nz/MarketPlace]Cryptopia (Market)[/url]
+[url=http://picisi.com]PICISI (Crowdfunding)[/url]
+
+[b]OK untuk alat pembayaran[/b]
+[url=https://cointopay.com/integration.jsp]CointoPay (Integration)[/url]
+
+[b]Android Apps untuk Bitcoin dan OKCash[/b]
+[url=https://play.google.com/store/apps/details?id=com.mygeopay.wallet]UberPay Multiwallet[/url]
+[url=https://play.google.com/store/apps/details?id=com.mobnetic.coinguardian]Bitcoin Checker[/url]
+[url=https://play.google.com/store/apps/details?id=com.blockfolio.blockfolio]Blockfolio[/url]
+[url=https://play.google.com/store/apps/details?id=wiskunde.nl.coinpriceticker]Coin Price Ticker[/url]
+
+[b]Free OK, Games dan Twitterbots[/b]
+[url=http://www.multifaucet.tk/index.php?faucet=OK]OK Faucet #1[/url]
+[url=http://ok.bleufaucet.com/]OK Faucet #2[/url]
+[url=http://www.free-crypto.com/]OK Faucet #3[/url]
+[url=https://twitter.com/okcashtip/]OK Twitter Tipbot[/url]
+[url=https://yobit.net/en/dice/]OK at Yobit Dice[/url]
+[url=https://www.reddit.com/r/OKcash/comments/3i97g0/okcash_tip_bot/]OK Reddit Tipbot[/url]
+[url=https://kiwiirc.com/client/irc.freenode.net/#okcash]OK IRC Tipbot[/url]
+[url=https://kiwiirc.com/client/irc.freenode.net/#okcash]OK Trivia on IRC (start with !quiz)[/url]
+[url=https://kiwiirc.com/client/irc.freenode.net/#okcash]OK Hi - Low on IRC (start with !hl)[/url]
+[url=https://kiwiirc.com/client/irc.freenode.net/#okcash]OK Random times Tipme on IRC
+by nrpatten (use with !tipme)[/url]
+[url=https://kiwiirc.com/client/irc.freenode.net/#okcash]deb0rah Price check on IRC by BuZz
+(start with !price)[/url]
+[url=https://twitter.com/OKCashPrice]BTC/OK Twitter Pricebot 
+by SebSebastian[/url]
+[url=https://twitter.com/ExplorerRocks]BTC/OK Detailed Twitter Pricebot[/url]
+[/td]
+[td]
+[b]OK Partners[/b]
+[url=https://headtalker.com/partners/]HeadTalker (ultimate crowdspeaking platform)[/url]
+
+[b]OK Komunitas Sosial dan Informasi[/b]
+[url=https://kiwiirc.com/client/irc.freenode.net/#okcash]IRC Web Chat[/url]
+[url=https://twitter.com/OKCashCrypto]Twitter[/url]
+[url=http://updates.okcash.co/]Tumblr[/url]
+[url=http://www.reddit.com/r/OKCash]Reddit[/url]
+[url=https://voat.co/v/ok]Voat[/url]
+[url=http://pinterest.com/okcash]Pinterest[/url]
+[url=https://instagram.com/okcashcrypto/]Instagram[/url]
+[url=https://www.facebook.com/OKCashCrypto]Facebook[/url]
+[url=https://plus.google.com/u/0/111925669729941786986/]Google +[/url]
+[url=https://www.youtube.com/channel/UC5BCYmlBtPZiC7NNv-a5gfA/videos]Youtube[/url]
+[url=https://bitcointalk.org/index.php?topic=1028368.0]BitcoinTalk ANN[/url]
+[url=http://forum.okcash.co/]OK Forum[/url]
+[url=http://roadmap.okcash.co/]Interactive Community Roadmaps[/url]
+[url=http://ok.roadmap.space/]Formal Roadmaps[/url]
+[url=https://github.com/okcashpro/okcash/releases]Wallet Releases History[/url]
+[url=http://okcash.altcoin.bio/]IRC Web Chat Logs[/url]
+[url=http://about.me/okcash]About.me[/url]
+[url=http://bitcoingarden.tk/forum/index.php?topic=3941.0]BitcoinGarden[/url]
+[url=http://cryptocentral.info/topic/16/okcash-ok-pow-pos-sha256]Cryptocentral[/url]
+[url=https://www.cryptopia.co.nz/Forum/Thread/449]Cryptopia forums[/url]
+[url=http://cryptos.us/forum/announcements/72-ann-ok-ok-cryptocurrency-efficient-crypto-bittrex-rokos-pi-os]Cryptos.us forums[/url]
+[url=https://cryptocointalk.com/topic/39002-ann-ok-ok-cryptocurrency-okcash-efficient-crypto-pos/]CryptoCoinTalk[/url]
+[url=https://allcryptotalk.com/index.php/topic/1833-ann-ok-ok-cryptocurrency-okcash-efficient-crypto-pos-social/]AllCryptoTalk[/url]
+[url=https://altcoinsfoundation.com/forum/ann-altcoins/15-okcash-ok-cryptocurrency-fast-and-efficient-crypto]Altcoins Foundation[/url]
+[url=http://cryptoscene.com/threads/ann-ok-okcash-efficient-crypto-multipool-eco-friendly-bittrex-coingecko.64/]Cryptoscene[/url]
+[url=https://www.raspberrypi.org/forums/viewtopic.php?f=41&t=112913]Raspberry Pi[/url]
+[url=http://www.foro-ptc.com/cryptomonedas-138/okcash-criptomoneda-pos-para-minar-en-raspberry-69-anual-119727/]Foro-PTC[/url]
+[url=https://forobits.com/t/okcash-hilo-general/1347]ForoBits[/url]
+
+[b]OK Wallpapers[/b]
+[url=https://copy.com/yuL4KvTeRH3uq2Qg]ROKOS IoT Themes[/url]
+[url=https://copy.com/lFi9Pll0PBkotGwc]Remember the 5th Themes[/url]
+
+[b]Project Side dan Kolaborasi[/b]
+[url=http://altcoinsfoundation.com/p/userprofile/OKCash]Altcoins Foundation[/url]
+[url=https://bitcointalk.org/index.php?topic=1084908.0]ROKOS - Raspberry Pi Distro (BTC/OK)[/url]
+[url=https://bitcointalk.org/index.php?topic=807698.msg9771644#msg9771644]Gaia[/url]
+[url=https://www.indiegogo.com/projects/science-study-memory-loss-dueto-sleep-deprivation]Emc2[/url]
+[url=https://bitcointalk.org/index.php?topic=871506.msg10646440#msg10646440]BsXs[/url]
+[/td]
+[/tr]
+[/table][/center]
+
+[center]
+[b]Liputan Media[/b]
+[url=http://themerkle.com/news/rokos-is-a-free-raspberry-pi-operating-system-to-launch-a-bitcoin-node/][ROKOS Free Raspberry Pi Operating System To Launch A Bitcoin Node][/url]
+[url=http://kabarlinux.web.id/2015/rokos-v4-distro-untuk-membangun-bitcoin-node/][ROKOS v4, Distro untuk Membangun Bitcoin Node][/url]
+[url=http://us.newsbtc.com/okcash-looking-to-position-itself-among-the-leaders-in-digital-currency-ecosystem/][OKCash Looking To Position Itself Among The Leaders In Digital Currency Ecosystem][/url]
+[url=http://www.altcoinsnews.com/okcash-new-wallet-update-and-latest-news/][OKCash New Wallet Update and Latest News][/url]
+[url=http://www.k5webmasters.com/geektip-noticias-y-updates/tecnologia/64-okcash-nueva-moneda-digital-la-evolucion-de-los-pagos-sociales.html][OKCash Nueva moneda digital, La evolución de los Pagos Sociales][/url]
+[url=http://blockchainbp.xyz/2015/11/24/okcash-announces-new-anonymous-core-v3-wallet-update-featuring-a-new-optional-anonymous-ring-signature-system][BlockchainBP][/url]
+[url=http://www.satoshis.guru/home/coin-info/okcash/][OKCash The Future of Social Payments][/url]
+[url=https://twitter.com/TrendingGithub/status/659020176139141120][Fast and efficient Digital Cash Tech with Privacy options Github Trending][/url]
+[url=http://cryptolix.com/what-is-okcash-an-okcash-review/][What is OKCash? An OKCash Review][/url]
+[url=http://cryptos.us/crypto-news/item/68-okcash-the-bitcoin-s-grandson-history-and-philosophy][OKCash The Bitcoin's Grandson History and Philosophy] [/url]
+[url=https://www.youtube.com/watch?v=8UNAqWD3sFU&feature=youtu.be&t=6m5s][Bitcoin Rush Video Show - OKCash Spend, Share and Save][/url]
+[url=http://bitcoingarden.tk/okcash-releases-new-wallets-v2-0-0-1/][OKCash Releases new wallets v2.0.0.1][/url]
+[url=http://eternitywall.it/m/677e2eb9158e4c3bef2fdacc3117c9ea5d842fdd93c2b6dc07743a355cc5e4d7][Bitcoin's Eternity Wall OKCash Easter Egg][/url]
+[url=http://cryptos.us/component/k2/item/63-okcash-the-future-of-social-payments][OKCash A new brand and a new future for social payments][/url]
+[url=http://bitcoinlasvegas.net/pimpcash-gets-rebranded-to-okcash-69-interest-per-year-8-hr-min-stake-age/][OKCash 69% Interest, 8 hr min stake age][/url][/center]
+
+[hr]
+[center][img]http://i.imgur.com/P1a1fu0.png[/img]
+
+[b][url=https://poloniex.com/coinRequest][Poloniex] Exchange (form request)[/url]
+[url=https://bitcointalk.org/index.php?topic=1092682.0][ExchangeD.I2P] Exchange (post in thread request)[/url]
+[url=https://bitcointalk.org/index.php?topic=393147.0][DirectBet] Sports and Race books bets (vote)[/url]
+[url=https://www.coinpayments.net/vote][CoinPayments] Payment processor (vote)[/url]
+[url=https://gourl.io/voting-ok.htm][GoURL] Payment processor (vote)[/url]
+[url=https://twitter.com/BanxExchange][Banx.io] Exchange (tweet request)[/url]
+[url=https://askcoin.net/votes][AskCoin] Exchange (vote)[/url][/b]
+[b]Happy OKCash User?[/b]
+[b]Support the OK Development[/b]
+[b]Community Donations to Support Development[/b]
+
+[b]OKtoshi
+Pemimpin Developer[/b]
+
+[b]OK[/b] PRnWj5rovke61MfSfpY2j9oKYGrqzGGWcr
+[b]BTC[/b] 1oKCasHYZQBhWR1V2VboGHiCoMNGaUPPy
+
+
+[/center]
+[img]http://i.imgur.com/63nlVlz.png[/img]
+
+[b]Hadiah pas lagi Staking?[/b]
+Gampangnya adalah proses di mana agan menyimpan uang agan di dompet OK agan dan tetap terbuka, koin agan akan mulai "staking(sperti nambang gitu gan)", yang berarti setelah 8-24 jam dompet agan akan mulai menambang untuk lebih banyak koin sesuai dengan kuantitas koin yang sudah ada di dompet agan, pada tingkat 69% untuk tahun pertama (% perubahan pertama 4 tahun) tanpa perlu peralatan khusus. agan hanya perlu menghidupkan terus dompet agan untuk memulai mendapatkan lebih banyak koin. (Node ini membantu mempertahankan jaringan desentralisasi, aman dan cepat, maka mengapa mereka mendapatkan hadiah untuk mendukung jaringan)
+
+[b]Spesifikasi OK [/b]
+[b]Rilis:[/b] 24-November-2014
+[b]PoW berakhir pada blok: [/b]33,186
+[b]Total terakhr saat fase Pow/Pos Hybrid berakhir:[/b] 36,297,000 OKCash
+[b]Max Cap:[/b] 105,000,000 OKCash
+[b]Full POS dimulai:[/b] Dec 9th 2014
+[b]Proof of Stake[/b]
+[b]Hadiah Stake :[/b] 69% Tahun Pertama (blok 531,257)
+| 20% Tahun Kedua (blok1,022,514) | 10% Tahun Ketiga (blok 1,523,771)| 6% Tahun ke empat
+[b]PoS Min Stake:[/b] 8 jam
+[b]Transaksi: [/b]10 konfirmasi
+[b]Stakes: [/b]64 konfirmasi
+[b]Waktu Blok:[/b] 72 detik kurang lebih.
+[b]Rpcport:[/b] 6969
+[b]Port:[/b] 6970
+[b]Test ports:[/b] ( RPCport 7979 ) ( Port 7980 )
+
+[hr]
+
+[center][img]http://i.imgur.com/2dOXaff.png[/img][/center]
+
+[b] [size=14pt]Apa itu OKCash? [/size] [/b]
+
+OKCash adalah cryptocurrency yang baru yang baru saja rilis pada Nobember 2014. Sejak itu OK telah memperlihatkan banyak peminat dan ingin membuat koin menjadi lebih mudah untuk digunakan. Peluncurannya telah sukses dan panyak para penambang berpatisipiasi untuk menambang koin ini.
+ 
+Pada saat PoW 15 hari tanpa dipotong untuk membuat rasa adil kepda setiap penambang. Setelah 15 hari menambang, OKCash menjadi full Proof of Stake coin. Ini mnjadika era baru pada cryptourrenct, dimana koinya tetap dapat di distibusikan lewat POS.
+ 
+OKCash mulai kecenderungan baru dalam dunia cryptocurrency, dengan menyuntikkan getaran positif ke dalam desain dan kode. Banyak uang logam baru mulai bisa dibuat mengikuti cita-cita tersebut, beberapa bahkan menambahkan "positif" menjadi nama yang sama seperti nama sebelumnya OK ini. Sayangnya sebagian besar uang logam baru hanya berlangsung selama beberapa bulan dan lain-lain tidak memiliki tekad untuk melanjutkan komitmennya untuk kode dan masyarakat. Lain memiliki pengembangan outsourcing, yang berarti tidak memiliki in-house devs, yang membuat proses pembangunan lebih sulit untuk mempertahankan dan membuat sulit untuk membangun sistem yang efisien karena tidak ada Developer utama dengan pemahaman yang nyata dari kode.
+ 
+OKCash tidak menyajikan isu-isu seperti: koin telah diperdagangkan sejak November 2014 dan masyarakat terus tumbuh di semua aspek, di jaringan sosial, di pasar, di gunakan, dan dengan di-rumah didedikasikan Dev itu telah membangun infrastruktur terdesentralisasi padat yang langsung tercermin dalam efisiensi dan kecepatan koin. OKCash adalah salah satu dari segelintir koin yang belum disajikan tanpa masalah apapun dengan blockchain, bekerja dengan sempurna sejak hari itu dirilis. Bahkan update proses Branding rapi dan mudah bagi para penggunanya, menunjukkan sekali lagi dedikasi untuk fungsionalitas dan kemudahan penggunaan.
+ 
+Motivasi awal belakang OKCash adalah untuk menciptakan sebuah koin benar-benar efisien dan cepat dengan asosiasi lucu untuk acara TV Pimpd, membangkitkan kalimat dalam arti untuk "meningkatkan hal-hal" atau "membuat hal-hal yang lebih baik". Setelah sukses mendapatkan ditambahkan ke bursa pertama, dan dengan interaksi masyarakat dan umpan balik, nama menjadi "hot topic". Oleh karena itu dengan Pengembang 'dan umpan balik masyarakat itu memutuskan sudah waktunya untuk koin untuk berkembang dan berkomunikasi filosofi di balik pekerjaannya. Masyarakat dan lingkungan itu sendiri adalah kekuatan pendorong di balik evolusi ini, yang dimaksudkan untuk memberikan pengguna akhir dengan cryptocurrency mereka bisa percaya - dengan nama yang ditujukan untuk utama - dan dengan kualitas sebagai berikut: kecepatan, efisiensi dan kemudahan penggunaan disertai dengan desain kerja yang berdedikasi dan personal.
+ 
+[center][img]http://i.imgur.com/6ViGSdN.png[/img][/center] 
+
+Nama "OK" dipilih untuk mewakili merek baru justru karena mencerminkan benar tujuan koin dan sikap. OK adalah salah satu dari hanya 2 kata di seluruh dunia yang tidak memerlukan terjemahan sama sekali untuk dipahami, memberikan potensi adopsi tanpa kerumitan mencoba untuk mengintegrasikan nama baru untuk budaya yang berbeda. "OK" dipahami seluruh di dunia . (Ok cash OK :D :D :D )
+
+OK mencerminkan hasil yang positif, kecepatan dan empati. Keamanan dan pengalaman pengguna adalah pengalaman pertama di belakang setiap update atau kode modifikasi. Penambahan kata "cash" dibuat untuk memberikan inklusi langsung ke sektor keuangan dan berkomunikasi dengan seluruh konsep dalam kata: "OKCash".
+Siapa saja yang mendengar kata kata ini mendapat konsep keseluruhan atau gambaran umum tentang apa itu (OKCASH). OK teknologi saat OKCash adalah aplikasi pertama dari teknologi ini, menjadi koin kita bisa mengirim atau dimasukkan ke dalam dompet kami untuk tabungan, pengeluaran dan berbagi.
+
+rebranding(Penggantian Nama :) ) OKCash ini dilakukan pada bulan April 2015, dan sejak saat itu OK cryptocurrency telah ditambahkan ke salah satu bursa cryptocurrency terbesar - Bittrex. Hal ini menambah daftar bursa mana koin sudah perdagangan (Bittrex, Bleutrade, Cryptopia).
+ 
+[center]OKCash memiliki USD langsung / pasar OK di Bleutrade, sehingga memungkinkan untuk membeli atau menjual OK langsung untuk mata uang fiat.(Rupiah Kagak ada gan :'( )[/center]
+ 
+OKCash telah disebut sebagai "Masa depan untuk Pembayaran Sosial" dan "Cucu dari Bitcoin(Nice ;D )" itu memiliki salah satu kehadiran sosial terkuat di lingkungan cryptocurrency. Agan benar-benar dapat mengirim OKCash di mana saja di dunia dengan mudah menggunakan Reddit dan / atau Twitter Tip bot. Hal ini memungkinkan untuk mengirim OK untuk siapa pun di dunia, bahkan jika mereka belum menginstal dan download dompet OKCash.
+ 
+OKCash juga merupakan salah satu dari beberapa mata uang yang tidak melawan BTC. Sebaliknya, OK mendukung BTC dan bertujuan untuk membuat acara di seluruh dunia untuk mengajar orang tentang cryptocurrencies seperti BTC dan OK: bagaimana mereka bisa mendapatkan keuntungan dan bagaimana mereka berbeda dari sistem fiat tradisional.[url=http://okcash.co/#jf_download]Download Dompet OKCash[/url]
+ 
+OK melengkapi BTC, dengan kecepatan dan Bukti sistem Stake karya OK sebagai mata uang, tetapi juga sebagai suatu sistem produktif. Jika Anda menjaga dompet Anda terbuka, Anda mendapatkan% dari uang yang Anda pegang di dompet Anda sebagai bunga. Sistem ini incentivizes pertumbuhan jaringan dan keamanan juga, dan merupakan salah satu aspek kunci dari OK karena tidak memerlukan peralatan khusus. Ini adalah energi yang ramah cara yang lebih untuk mempertahankan seluruh jaringan, mengurangi jejak karbon jauh terhadap Bukti teknologi Kerja.
+ 
+Sejak awal, OKCash telah memberikan update konstan, situs yang didedikasikan untuk mereka dan telah mengikuti Roadmap dalam waktu dan bentuk.
+ 
+[center][img]http://i.imgur.com/oaj68zd.png[/img][/center]
+ 
+OK adalah cryptocurrency pertama yang memegang lintas-promosi antara masyarakat cryptocurrency yang berbeda, dan untuk insentif kerja sama lebih lanjut dengan OKCash Pengembang menciptakan Altcoins Yayasan: Automated Landasan yang membantu mempromosikan proyek-proyek di seluruh lingkungan cryptocurrency dan memberikan ruang untuk mata uang baru atau didirikan untuk berbagi update dan berita mereka.[url=https://altcoinsfoundation.com]Link[/url]
+ 
+[center][img]http://i.imgur.com/wBVYnX2.png[/img][/center] 
+
+Siapapun dapat mengunjungi dan men-download "ROKOS" proyek juga, Raspberry Pi OS dengan penuh Bitcoin Graphical Client dan simpul siap untuk plug and play, OK client / node siap digunakan, didistribusikan secara gratis oleh Pengembang OKCash untuk mendukung adopsi Crypto dan integrasi cryptocurrencies dengan Internet teknologi Atraksi (IOT). [url=https://www.raspberrypi.org/forums/viewtopic.php?f=41&t=112913]Download[/url]
+ 
+komunitas OK terus menciptakan hadiah bagi masyarakat yang lebih kripto dan kontes konstan dengan penambahan kran dan sumber daya untuk memberikan lebih banyak pengguna kesempatan untuk bersenang-senang dan mengenal, tes dan menggunakan OKCash (OK).
+
+[center][img]http://i.imgur.com/63nlVlz.png[/img][/center]
+
+[center]
+[b]OK Resume[/b][/center]
+[b]$OK - OKCash[/b] adalah Masa depan untuk pembayaran Sosial.
+
+Nama [b]OKCash [/b] dengan panggilan [b]"OK"[/b] , berbeda bahasa berdedikasi situs dan sumber daya saat ini sedang bergulir di seluruh jaringan dan media sosial.
+
+Tujuan dari nama OKCash adalah untuk memastikan bahwa nama koin benar mencerminkan kepercayaan, positivisme, inovasi dan visi yang berada di pusat dari semua pekerjaan kami. Kami sangat percaya bahwa [b]OKCash [/b]akan memiliki proyeksi yang lebih baik dan menarik bagi khalayak internasional yang lebih luas, sehingga sangat cocok untuk integrasi di berbagai pasar, promosi, pertukaran dan sumber daya. Katakanlah OK ke Kas!
+
+Pembangunan fokus pada penyediaan layanan jangka panjang untuk [b] OKCash [/b] di beberapa platform pembayaran, dan aksesibilitas dan keandalan akan melengkapi layanan yang berorientasi sosial yang saat ini sedang dikembangkan.
+
+Kami sangat senang dengan kesempatan baru yang [b] OKCash [/b] adalah membawa ke komunitas yang berbeda dan orang-orang di seluruh dunia dengan posisi baru sebagai merek utama. 
+
+[b]OKCash is fun and inclusive, we warmly welcome the community and would like to thank you for your continued support[/b].
+
+[b]Sejarahnya gan :D :[/b] Dimulai sebagai hybrid POW / PoS, yang berarti penambang mampu menggunakan kartu gpu mereka dan peralatan penambang khusus untuk menambang koin untuk pertama 15 hari tanpa mengurangi separuh untuk membuatnya lebih adil untuk para penambang, Setelah Fase ini, OKCash menjadi Bukti Penuh stake (PoS) Cryptocurrency, yang berarti satu-satunya cara untuk membuat lebih banyak koin adalah proses mengintai. Itu pikiran Dev_Fund dari 2.691.000 OK di 1 Blok untuk distribusi awal bagi masyarakat. (Dana Dev itu sepenuhnya didistribusikan melalui Rains, Giveaways, Karunia, Quiz bot dan kontes untuk semua masyarakat kripto peserta. Penuh Dev Dana yang dihabiskan di [url=https://bitcointalk.org/index.php?topic=900784.0]Previous Community Record; Biggest Epic Rain [/url]Record with cross cooperation with other Altcoins communities).
+
+Diluncurkan pada November 2014 dengan nama Inovasi positif untuk solusi multi Pembayaran Tunai dan kembali bermerek kemudian Cash, telah reputasi tumbuh sebagai yang paling sosial berorientasi cryptocurrency dengan update hampir setiap hari, bersama langsung pada sebuah situs web untuk berita dan update untuk masyarakat, dan di media sosial yang luas.
+
+Pada Desember 2014 dirilis dompet khusus untuk Gaia koin berdasarkan desain OK sebelumnya, yang pertama bagi kolaborasi lintas-koin di kripto Eco-system. Hal ini mencerminkan fokus OKCash pada pengembangan hubungan dengan cryptocurrencies lainnya, melalui inisiatif amal dan proyek kolaborasi dengan koin lainnya, yang selama ini termasuk proyek dengan Gaia, Einsteinium (EMC2) dan lain-lain.
+
+Hal lain yang penting untuk disorot mengenai OKCash adalah kenyataan bahwa belum ada masalah sejauh ini dengan rantai blok atau itu kode dan beroperasi pada jaringan yang cepat dan handal nyata.
+
+Desain dompet kustom mencerminkan perhatian terhadap detail dan pentingnya desain visual yang unik untuk OKCash, bersama dengan penekanan pada positivisme, inklusivitas dan untuk lebih kemajuan semua adopsi lingkungan cryptocurrency dan sistem pembayaran desentralisasi, sambil membawa kembali kepercayaan untuk Crypto dan menjadi Masa Depan Pembayaran Sosial.
+
+[b]KEgunaan:[/b]  Belanja, Sharing, Tabungan, Remittance, Tipping Sosial, Crowdfunding, Promosi, Bitcoin Dukungan, Pendidikan, komunikasi dan banyak lagi untuk ditemukan.
+
+OKCash adalah POS penuh sekarang, sebuah OKCash Multipool mendapat dirilis oleh sumbangan masyarakat untuk memberikan penambang cara untuk menambang OKCash bawah algoritma yang berbeda di: www.okcashpool.info
+
+[center][img]http://i.imgur.com/LgG2T15.png[/img][/center]
